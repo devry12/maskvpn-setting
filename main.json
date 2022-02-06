@@ -1,27 +1,27 @@
 [
     {
-      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/sg-01.ovpn?token=GHSAT0AAAAAABQ3GI3SNLZMQMH6ACKFFMY6YP74QIA",
+      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/sg-01.ovpn",
       "country_code": "sg",
       "country": "Singapore",
       "username": "maskvpn",
       "password": "maskvpn"
     },
     {
-      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/jp-01.ovpn?token=GHSAT0AAAAAABQ3GI3SJ75FMN7D5NPQTN74YP74SQA",
+      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/jp-01.ovpn",
       "country_code": "jp",
       "country": "Japan",
       "username": "maskvpn",
       "password": "maskvpn12"
     },
     {
-      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/kr-01.ovpn?token=GHSAT0AAAAAABQ3GI3SORHBBLMS6ONIGUWIYP74SBQ",
+      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/kr-01.ovpn",
       "country_code": "kr",
       "country": "South Korea",
       "username": "maskvpn",
       "password": "maskvpn12"
     },
     {
-      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/in-01.ovpn?token=GHSAT0AAAAAABQ3GI3T27YA4HOLACUUDTVIYP74SZQ",
+      "config": "https://raw.githubusercontent.com/devry12/maskvpn-setting/main/in-01.ovpn",
       "country_code": "in",
       "country": "India",
       "username": "maskvpn",
